@@ -105,7 +105,9 @@ body {
   .menu-icon {
     display: block;
   }
-
+  .telefon{
+    font-size: 30px;
+  }
   .nav-links {
     display: none;
   }

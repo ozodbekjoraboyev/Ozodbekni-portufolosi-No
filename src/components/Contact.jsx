@@ -1,18 +1,25 @@
-import React from 'react'
+import React from "react";
 
 function Contact() {
   return (
     <div>
-        <div className="container" style={{
-            textAlign:"center",
-            marginTop:'15%'
-        }}>
-            <h1>My number: +998 95 035 22 00 </h1>
-            <h3>Telegram: Nazirov_19</h3>
-            <h3>Instagram: Naz1rov_19</h3>
+      <div
+        className="container"
+        style={{
+          textAlign: "center",
+          marginTop: "15%",
+        }}
+      >
+        <h1 className=" telefon">Telefon:+998 97 056 79 85 </h1>
+        <div>
+          <h1 className="telefon">
+            Telegram:
+            <a href="https://t.me/developerOzodbek"> Ozodbek..</a>
+          </h1>
         </div>
+      </div>
     </div>
-  )
+  );
 }
 
-export default Contact
+export default Contact;
