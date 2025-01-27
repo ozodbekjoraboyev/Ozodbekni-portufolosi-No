@@ -20,11 +20,11 @@ function About() {
         >
           <h2>Men haqimda</h2>
           <p>
-            Salom, mening ismim Ozodbek Jo'raboyev . Yoshim 18. Men
-            IT sohasiga va web dasturlash texnologiyalariga qiziqaman hamda shu
-            soha bo'yicha o'qiyapman. Men Frontend yo'nalishi bo'yicha HTML,
-            CSS, SCSS, JavaScript, React, Tailwind CSS, Bootstrap, GitHub va
-            Vercel kabi texnologiyalar bo'yicha tajribaga egaman.
+            Salom, mening ismim Ozodbek Jo'raboyev . Yoshim 18. Men IT sohasiga
+            va web dasturlash texnologiyalariga qiziqaman hamda shu soha
+            bo'yicha o'qiyapman. Men Frontend yo'nalishi bo'yicha HTML, CSS,
+            SCSS, JavaScript, React, Tailwind CSS, Bootstrap, GitHub kabi
+            texnologiyalar bo'yicha tajribaga egaman.
           </p>
         </div>
       </div>
