@@ -3,7 +3,7 @@ import React from "react";
 function About() {
   return (
     <div>
-      <div className="container">
+      <div className="container ">
         <div
           style={{
             padding: "20px",
